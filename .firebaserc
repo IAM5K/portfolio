@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "volo-sk"
+  },
+  "targets": {
+    "volo-sk": {
+      "hosting": {
+        "portfolio": [
+          "volose"
+        ]
+      }
+    }
+  }
+}
